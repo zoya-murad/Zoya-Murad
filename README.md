@@ -21,7 +21,7 @@
 | 💰 Personal Budget System | Excel | Smart 4 wallet budget tracker with auto split |
 
 ## 📈 GitHub Stats
-![Zoya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoya_murad&show_icons=true&theme=default)
+![Zoya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoya-murad&show_icons=true&theme=default)
 
 ## 🤝 Let's Connect!
 - 💼 Open to freelance Data Analyst projects
