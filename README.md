@@ -14,11 +14,10 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-## 📂 Projects
 | Project | Tools Used | Description |
-|---------|-----------|-------------|
+|---------|-----------|--------------|
 | 🛒 Sales Analysis Dashboard | Python, Power BI | End to end sales pipeline with auto refresh |
-| 💰 Personal Budget System | Excel | Smart 4 wallet budget tracker with auto split |
+| 💰 Personal Finance Tracker | Google Sheets | 5-wallet auto-split budget system with live dashboard |
 
 ## 📈 GitHub Stats
 ![Zoya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoya-murad&show_icons=true&theme=default)
