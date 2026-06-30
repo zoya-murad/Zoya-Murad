@@ -13,14 +13,13 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
+## 📂 Projects
 | Project | Tools Used | Description |
 |---------|-----------|--------------|
 | 🛒 Sales Analysis Dashboard | Python, Power BI | End to end sales pipeline with auto refresh |
 | 💰 Personal Finance Tracker | Google Sheets | 5-wallet auto-split budget system with live dashboard |
-
-## 📈 GitHub Stats
-![Zoya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoya-murad&show_icons=true&theme=default)
 
 ## 🤝 Let's Connect!
 - 💼 Open to freelance Data Analyst projects
